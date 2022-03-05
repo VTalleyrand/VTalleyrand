@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Volele
+### Hi, I'm Volele
 I am a NY-based front-end Software Engineer passionate about continuously evolving and expanding my skill set. 
 Design oriented and extremely meticulous, my interest for graphic arts and experience with visual communication 
 drive my web building abilities and allow for strategic problem solving within the digital space. 
