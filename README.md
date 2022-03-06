@@ -12,6 +12,7 @@ When I'm not programming, I enjoy taking photos, traveling, playing sports, read
 
 
 <h4>Learning:</h4>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt='REDUX' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt='PYTHON' height='40'/>
 
 
