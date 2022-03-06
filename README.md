@@ -3,7 +3,7 @@ I am a NY-based front-end Software Engineer passionate about continuously evolvi
 Design oriented and extremely meticulous, my interest for graphic arts and experience with visual communication 
 drive my web building abilities and allow for strategic problem solving within the digital space. 
 
-When I'm not programming, I enjoy taking photos, traveling, reading and learning. 
+When I'm not programming, I enjoy taking photos, traveling, playing sports, reading and learning. 
 
 <h4>Technologies</h4>
 
