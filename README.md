@@ -11,11 +11,6 @@ When I'm not programming, I enjoy taking photos, traveling, playing sports, read
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt='Git' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt='JavaScript' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='React' height='40'/>
 
 
-<h4>Learning:</h4>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt='REDUX' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt='PYTHON' height='40'/>
-
-
 
 <h4>Find me:</h4>
 
